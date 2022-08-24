@@ -1,0 +1,293 @@
+* {
+    margin: 0;
+}
+
+.banner {
+    background-image: url(images/banner-1.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin-bottom: 90px;
+}
+
+.banner-text {
+    width: 45%;
+    margin-left: 100px;
+    padding-top: 100px;
+    color: black;
+    text-align: justify;
+
+}
+
+.market-research {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.research-p {
+    font-size: 20px;
+    margin: 15px 0px 20px 0;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: aqua;
+    color: black;
+    font-size: 20px;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+
+.flexible {
+    display: flex;
+    margin-bottom: 90px;
+
+}
+
+.half-width1 {
+    width: 40%;
+    margin: 20px;
+}
+
+.half-width2 {
+    width: 55%;
+    margin-left: 60px;
+    margin-top: 15px;
+}
+
+.time-project {
+    font-size: 25px;
+    margin-bottom: 15px;
+    font-weight: 800;
+
+}
+
+.image-one {
+    width: 90%;
+    margin-left: 50px;
+}
+
+.half-width2 h3 {
+    margin-top: 15px;
+
+}
+
+.half-width2 p {
+    font-size: 20px;
+}
+
+.how-works {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+hr {
+    width: 8%;
+    border: 1px solid aqua;
+    margin: 0 auto;
+}
+
+.flex {
+    margin: 50px;
+    display: flex;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.div-icon {
+    margin-right: 15px;
+    padding: 10px 0px 15px 10px;
+    /* width: 300px; */
+
+}
+
+.icon {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.div-icon h4 {
+    margin: 15px;
+    font-weight: 800;
+
+}
+
+.pricing {
+    margin: 15px 0px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.price-head {
+    font-size: 20;
+    margin-top: 100px;
+}
+
+.price-flex {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+
+
+
+}
+
+.div-price {
+    margin-right: 20px;
+    width: 25%;
+    text-align: center;
+    border: 3px solid lightgray;
+
+}
+
+
+
+#selected {
+    background-color: aqua;
+    font-size: 20px;
+    padding: 25px;
+    margin-bottom: 10px;
+    color: black;
+    border-radius: 5px;
+}
+
+.amount2 {
+    color: white;
+}
+
+.price-class {
+    background-color: black;
+    font-size: 20px;
+    padding: 25px;
+    /* margin-bottom: 80px; */
+    border-radius: 5px;
+
+}
+
+.basic {
+    color: white;
+}
+
+.classes {
+    padding: 25px;
+}
+
+.classes h4 {
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.amount {
+    color: aqua;
+}
+
+.buy-now {
+    background-color: aqua;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 25px;
+    border-radius: 15px;
+
+}
+
+.buy-now2 {
+    background-color: black;
+    color: aqua;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 25px;
+    border-radius: 15px;
+}
+
+.customers {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.customers p {
+    margin-bottom: 30px;
+}
+
+.customers h1 {
+    margin: 100px 0px 0px 0px;
+
+}
+
+.last-boxes {
+    width: 25%;
+    text-align: center;
+    margin-right: 15px;
+    border: 3px solid lightgray;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+
+}
+
+.last-boxes p {
+    margin-bottom: 25px;
+    font-size: 20px;
+
+
+}
+
+.flex-bottom {
+    display: flex;
+    font-weight: 800;
+}
+
+.flex-bottom h3 {
+    margin-top: 60px;
+
+}
+
+.woman-icon {
+    width: 30%;
+}
+
+.woman-pic {
+    width: 100%;
+}
+
+.nessie {
+    color: aqua;
+}
+
+footer {
+    margin-top: 50px;
+    padding: 20px 0px;
+    text-align: center;
+    font-size: 20px;
+    background-color: black;
+}
+
+footer h1 {
+    color: white;
+}
+
+footer p {
+
+    color: white;
+}
+
+.contact-flex {
+
+    display: flex;
+    margin-left: 40%;
+    margin-top: 10px;
+}
+
+.contact-choice {
+    margin: 15px 0px 15px 40px;
+    width: 50px;
+
+
+}
+
+.image-contact {
+    width: 100%;
+    border-radius: 10px;
+}
